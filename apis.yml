@@ -1,0 +1,32 @@
+aid: open-government-spain
+name: Open Government, Spain
+description: "Spain Government Open Data"
+url: https://datos.gob.es/en
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Government"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Government
+  - Public APIs
+apis:
+  - name: Open Government, Spain
+    description: "Spain Government Open Data"
+    humanURL: https://datos.gob.es/en
+    baseURL: https://datos.gob.es/en
+    tags:
+      - Government
+    properties:
+      - type: Documentation
+        url: https://datos.gob.es/en
+common:
+  - type: Website
+    url: https://datos.gob.es/en
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
