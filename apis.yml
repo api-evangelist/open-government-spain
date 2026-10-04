@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Spain
     description: "Spain Government Open Data"
     humanURL: https://datos.gob.es/en
-    baseURL: https://datos.gob.es/en
     tags:
       - Government
     properties:
